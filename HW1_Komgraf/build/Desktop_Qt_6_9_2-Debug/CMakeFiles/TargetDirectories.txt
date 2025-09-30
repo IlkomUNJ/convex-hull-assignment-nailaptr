@@ -1,0 +1,9 @@
+/home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/HW1_Komgraf.dir
+/home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
+/home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
+/home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
+/home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
+/home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/HW1_Komgraf_autogen_timestamp_deps.dir
+/home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/HW1_Komgraf_autogen.dir
