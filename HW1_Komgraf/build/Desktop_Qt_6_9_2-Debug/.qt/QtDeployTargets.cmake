@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_HW1_Komgraf_FILE /home/naila/HW1_Komgraf/build/Desktop_Qt_6_9_2-Debug/HW1_Komgraf)
+set(__QT_DEPLOY_TARGET_HW1_Komgraf_TYPE EXECUTABLE)
